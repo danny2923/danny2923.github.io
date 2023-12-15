@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "no": "1",
+      "name": "Liverpool",
+      "founded": "June 3, 1892",
+      "stadium": "Anfield",
+      "state": "United Kingdom",
+      "league": "Premier League",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png"
+    },
+    {
+      "no": "2",
+      "name": "Arsenal",
+      "founded": "December 1, 1886",
+      "stadium": "Emirates Stadium",
+      "state": "United Kingdom",
+      "league": "Premier League",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png"
+    },
+    {
+      "no": "3",
+      "name": "Barcelona",
+      "founded": "November 29, 1899",
+      "stadium": "Camp Nou",
+      "state": "Spain",
+      "league": "LaLiga",
+      "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/4/47/FC_Barcelona_%28crest%29.svg/1200px-FC_Barcelona_%28crest%29.svg.png"
+    },
+    {
+      "no": "4",
+      "name": "Paris Saint-Germain",
+      "founded": "August 12, 1970",
+      "stadium": "Princes Park",
+      "state": "France",
+      "league": "Ligue 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/800px-Paris_Saint-Germain_F.C..svg.png"
+    },
+    {
+      "no": "5",
+      "name": "Borussia Dortmund",
+      "founded": "December 19, 1909",
+      "stadium": "Signal Iduna Park",
+      "state": "Germany",
+      "league": "Bundesliga",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/2048px-Borussia_Dortmund_logo.svg.png"
+    },
+    {
+      "no": "6",
+      "name": "Manchester United",
+      "founded": "April 24, 1902",
+      "stadium": "Old Trafford",
+      "state": "England",
+      "league": "Premier League",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png"
+    },
+    {
+      "no": "7",
+      "name": "Manchester City",
+      "founded": "November 13, 1880",
+      "stadium": "Etihad Stadium",
+      "state": "England",
+      "league": "Premier League",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png"
+    },
+    {
+      "no": "8",
+      "name": "Real Madrid",
+      "founded": "March 6, 1902",
+      "stadium": "Santiago Bernabéu",
+      "state": "Spain",
+      "league": "LaLiga",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png"
+    },
+    {
+      "no": "9",
+      "name": "Chelsea",
+      "founded": "March 10, 1905",
+      "stadium": "Stamford Bridge",
+      "state": "United Kingdom",
+      "league": "Premier League",
+      "logo": "https://upload.wikimedia.org/wikipedia/id/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png"
+    },
+    {
+      "no": "10",
+      "name": "Newcastle United",
+      "founded": "September 6, 1895",
+      "stadium": "St. James' Park",
+      "state": "United Kingdom",
+      "league": "Premier League",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png"
+    }
+  ]
+}
